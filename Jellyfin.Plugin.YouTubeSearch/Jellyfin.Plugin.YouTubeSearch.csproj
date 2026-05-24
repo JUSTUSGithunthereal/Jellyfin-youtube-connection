@@ -12,5 +12,5 @@
     <PackageReference Include="MediaBrowser.Common" Version="10.10.0" />
     <PackageReference Include="MediaBrowser.Controller" Version="10.10.0" />
   </ItemGroup>
-g
+
 </Project>
