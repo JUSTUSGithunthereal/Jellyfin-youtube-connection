@@ -1,1 +1,22 @@
-
+[
+  {
+    "name": "YouTube Search",
+    "guid": "d0fa0c61-4af4-4f18-aab6-4a0f7f7e0d01",
+    "description": "YouTube search integration for Jellyfin",
+    "overview": "Search and play YouTube videos",
+    "owner": "DEINNAME",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/DEINNAME/jellyfin-youtube-search",
+        "downloads": [
+          {
+            "url": "https://raw.githubusercontent.com/DEINNAME/jellyfin-youtube-search/main/releases/plugin.zip"
+          }
+        ]
+      }
+    ]
+  }
+]
